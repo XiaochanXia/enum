@@ -1,0 +1,28 @@
+{
+  "name": "enum",
+  "version": "1.0.0",
+  "description": "JavaScript Enum",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaochanXia/enum.git"
+  },
+  "keywords": [
+    "enum"
+  ],
+  "author": "Xiaochan Xia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XiaochanXia/enum/issues"
+  },
+  "homepage": "https://github.com/XiaochanXia/enum#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
